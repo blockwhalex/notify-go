@@ -1,0 +1,3 @@
+[db.default]
+    driver_name="mysql"
+    dsn="root:@/notify_go?charset=utf8"
